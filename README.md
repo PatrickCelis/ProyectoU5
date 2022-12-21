@@ -3,11 +3,11 @@ Elaboración de API(Django)
 
 Proyecto sobre la unidad 5, se optó por hacer el proyecto individualmente.
 
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+<div style="text-align: center;">⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠</div>
 
 Este es un avance, por favor considerar el código y lo que se ha avanzado. Aún no está acabado :(
 
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+<div style="text-align: center;">⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠</div>
 
 
 ## Participante:
