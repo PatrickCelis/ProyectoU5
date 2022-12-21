@@ -1,7 +1,7 @@
 # Proyecto de la Unidad 5
 Elaboración de API(Django)
 
-Proyecto sobre la unidad 5, se optó por hacer el proyecto individualmente
+Proyecto sobre la unidad 5, se optó por hacer el proyecto individualmente.
 Este es un avance, por favor considerar el código y lo que se ha avanzado. Aún no está acabado :(
 
 ## Participante:
